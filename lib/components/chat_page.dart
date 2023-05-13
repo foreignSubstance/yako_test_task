@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'search.dart';
 
 class ChatPage extends StatelessWidget {
   @override
@@ -25,7 +26,14 @@ class ChatPage extends StatelessWidget {
                 ))
           ],
         ),
-        body: null,
+        body: Padding(
+          padding: const EdgeInsets.only(top: 16),
+          child: Column(
+            children: [
+              searchFiled(),
+            ],
+          ),
+        ),
         bottomNavigationBar: Container(
           decoration: const BoxDecoration(
               boxShadow: [BoxShadow(color: Colors.black26, blurRadius: 15)]),
