@@ -8,7 +8,7 @@ e-mail: dmitiy.dan@gmail.com
 
 
 ## Завдання
-![To do](assets\images\task.jpg)
+![To do](assets/images/task.jpg)
 
 ## Моя реалізація
-![Done](assets\images\result.png)
+![Done](assets/images/result.png)
