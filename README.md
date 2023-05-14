@@ -1,16 +1,14 @@
 # yako_test_task
 
-A new Flutter project.
+Витрачений час: приблизно 3 години
 
-## Getting Started
+e-mail: dmitiy.dan@gmail.com
 
-This project is a starting point for a Flutter application.
+Хобі: фотографування
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Завдання
+![To do] (assets\images\task.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Моя реалізація
+![Done] (assets\images\result.png)
